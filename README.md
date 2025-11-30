@@ -11,6 +11,7 @@ As informações oficiais e atualizadas estão hospedadas no portal da SBF:
 *   🏠 **Página Inicial:** [Acessar Site do Evento](https://www1.fisica.org.br/wffn/2025/index.php/pt/)
 *   📝 **Inscrições:** [Página de Inscrição](https://www1.fisica.org.br/wffn/2025/index.php/pt/inscricao)
 *   👥 **Comitê Organizador:** [Ver Equipe](https://www1.fisica.org.br/wffn/2025/index.php/pt/comite)
+*   ℹ️ **Programação do Evento:** [Acessar a Programação do Evento](https://humba-ifsc.github.io/I_WFA_Salvador_2025/html/programacao_wfa_2025.html)
 
 ---
 
