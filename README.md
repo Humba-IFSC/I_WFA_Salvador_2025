@@ -36,7 +36,7 @@ A equipe responsável pela organização do I WFA é composta por pesquisadores 
 *   **Ana Maria do Espirito Santo Slapnik** (Unifesp)
 *   **Antonio Carlos Fontes dos Santos** (UFRJ)
 *   **Carleane Patrícia da Silva Reis** (INL - International Iberian Nanotechnology Laboratory, Portugal)
-*   **Flora Bacelar** (UFBA)
+*   **Flora Souza Bacelar** (UFBA)
 *   **Georgia Joana** (CNEM)
 *   **Humberto Luz Oliveira** (IFSC - Campus São José)
 *   **Pedro Luan Santos de Souza** (IFBA)
