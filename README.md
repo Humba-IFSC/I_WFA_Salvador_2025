@@ -1,6 +1,6 @@
 # I WFA Salvador 2025
 
-Este repositório contém os arquivos, documentação e informações referentes à organização e desenvolvimento do **I WFA (Workshop de Física e Aplicações)**, a ser realizado em Salvador, Bahia, no ano de 2025.
+Este repositório contém os arquivos, documentação e informações referentes à organização e desenvolvimento do **I WFA (Workshop de Física(o)s Afrodescendentes)** Brasileira(o)s e Americana(o)s, a ser realizado em Salvador, Bahia, nos dias 03, 04 e 05 de Dezembro de 2025.
 
 O evento é promovido pela **Sociedade Brasileira de Física (SBF)**.
 
